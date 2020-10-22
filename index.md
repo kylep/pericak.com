@@ -6,6 +6,5 @@
 ---
 
 ```
-If you're a Pericak and want a link here or a @pericak.com email address, let me know.
- -Kyle
+If you're a Pericak and want a link here or an @pericak.com email address, let me know.
 ```
