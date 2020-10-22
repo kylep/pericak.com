@@ -6,5 +6,5 @@
 ---
 
 ```
-If you're a Pericak and want a link here or an @pericak.com email address, let me know.
+If you're a Pericak and want your page linked to from here, or you want an @pericak.com email address, let me know.
 ```
